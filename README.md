@@ -71,20 +71,21 @@ The dataset contains OLA ride booking information with the following key attribu
 
 ## 📊 Dashboard Screenshots
 
-### Overall Performance Dashboard
+### Overall Performance
 ![Overall Dashboard](screenshots/overall_dashboard.png)
 
-### Vehicle Performance Dashboard
+### Vehicle Performance
 ![Vehicle Dashboard](screenshots/vehicle_dashboard.png)
 
-### Revenue Analysis Dashboard
+### Revenue Analysis
 ![Revenue Dashboard](screenshots/revenue_dashboard.png)
 
-### Cancellation Analysis Dashboard
+### Cancellation Analysis
 ![Cancellation Dashboard](screenshots/cancellation_dashboard.png)
 
-### Ratings Analysis Dashboard
+### Ratings Analysis
 ![Ratings Dashboard](screenshots/ratings_dashboard.png)
+
 
 ---
 
